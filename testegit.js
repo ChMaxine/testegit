@@ -1,3 +1,5 @@
 console.log("teste git")
 console.log("teste git um")
-console.log("teste cores git")
+console.log("teste cores alteração")
+console.log("Hello World!")
+console.log(1+1)
